@@ -78,10 +78,10 @@ Our ML-driven approach:
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-[home page.png](https://github.com/lokeshkolapati/Fake_News_Detection/blob/main/home%20page.png)
+![home page.png](https://github.com/lokeshkolapati/Fake_News_Detection/blob/main/home%20page.png)
 
 ### 📌 Prediction Page
-[prediction page](https://github.com/lokeshkolapati/Fake_News_Detection/blob/main/prediction%20page.png)
+![prediction page](https://github.com/lokeshkolapati/Fake_News_Detection/blob/main/prediction%20page.png)
 
 
 ---
