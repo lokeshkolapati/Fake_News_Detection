@@ -90,7 +90,7 @@ Our ML-driven approach:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
+git clone https://github.com/lokeshkolapati/Fake_News_Detection.git
 cd fake-news-detection
 ```
 ### 2️⃣ Install dependencies
